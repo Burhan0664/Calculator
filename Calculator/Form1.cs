@@ -30,7 +30,18 @@ namespace Calculator
 
         private void button11_Click(object sender, EventArgs e)
         {
-           
+
+            if (_ekrantemizlenecekmi)
+            {
+                window.Text = "";
+                _ekrantemizlenecekmi = false;
+            }
+            if (window.Text == "0")
+
+            {
+                window.Text = "";
+            }
+            window.Text += "0";
         }
 
         private void btn_number1_Click(object sender, EventArgs e)
