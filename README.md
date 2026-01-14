@@ -56,6 +56,5 @@ Bu proje sayesinde:
 ## 👤 Geliştirici
 
 **Burhan Çavdaroğlu**  
-Bilgisayar Mühendisliği Öğrencisi  
 
 🔗 GitHub: [https://github.com/Burhan0664](https://github.com/Burhan0664)
