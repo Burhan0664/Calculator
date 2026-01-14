@@ -1,4 +1,4 @@
-# 🧮 Calculator
+# 🧮 Hesap Makinası
 
 Bu proje, yazılım dünyasındaki **ilk projem** olarak geliştirdiğim basit bir **hesap makinesi uygulamasıdır**.  
 Temel matematiksel işlemleri gerçekleştirebilen bu uygulama, programlama mantığını öğrenme sürecimde önemli bir adımdır.
