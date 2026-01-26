@@ -55,6 +55,6 @@ Bu proje sayesinde:
 
 ## 👨‍💻 Geliştirici 
 **Burhan Çavdaroğlu** 
-📍 Ankara, Türkiye 
-🔗 LinkedIn: [https://linkedin.com/in/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/) bu kısmı yeniden restore et linkedin img si koy
+-📍 Ankara, Türkiye 
+-🔗 LinkedIn: [https://linkedin.com/in/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/)
 
