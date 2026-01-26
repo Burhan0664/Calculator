@@ -53,8 +53,9 @@ Bu proje sayesinde:
 
 ---
 
-## 👤 Geliştirici
+## 👨‍💻 Geliştirici
 
-**Burhan Çavdaroğlu**  
+**Burhan Çavdaroğlu**
+📍 Ankara, Türkiye
+🔗 LinkedIn: [https://linkedin.com/in/burhancavdaroglu](https://www.linkedin.com/in/burhancavdaroglu/)
 
-🔗 GitHub: [https://github.com/Burhan0664](https://github.com/Burhan0664)
