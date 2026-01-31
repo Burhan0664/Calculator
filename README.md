@@ -44,15 +44,6 @@ Bu proje sayesinde:
 
 ---
 
-## 🔮 Gelecek Geliştirmeler
-
-- Daha gelişmiş matematiksel işlemler  
-- Kullanıcı dostu bir arayüz  
-- Hata kontrol mekanizmaları  
-- Daha modüler ve okunabilir kod yapısı  
-
----
-
 ## 👨‍💻 Geliştirici
 
 **Burhan Çavdaroğlu**  
